@@ -1,0 +1,13 @@
+{ "theguardian":{
+    "link": "https://www.theguardian.com/world/coronavirus-outbreak"
+  },
+
+  "wallstreetjournal":{
+    "link": "https://www.wsj.com/news/collection/coronavirus0312-256f2943?mod=theme_coronavirus-ribbon"
+  },
+
+  "politico":{
+    "link": "https://www.politico.com/search?q=coronavirus"
+  }
+}
+

@@ -1,0 +1,13 @@
+Task Description
+
+Dataset
+
+Tidy up the data
+
+Preparing data for input into model
+
+Create model
+    Possibly create multiple models
+    
+Evaluate the model
+

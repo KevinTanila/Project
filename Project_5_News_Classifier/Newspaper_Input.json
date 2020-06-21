@@ -1,0 +1,41 @@
+{ "theguardian":{
+    "link": "https://www.theguardian.com/world/coronavirus-outbreak"
+  },
+
+  "wallstreetjournal":{
+    "link": "https://www.wsj.com/news/collection/coronavirus0312-256f2943?mod=theme_coronavirus-ribbon"
+  },
+
+  "politico":{
+    "link": "https://www.politico.com/search?q=coronavirus"
+  },
+  "CNN":{
+    "link": "https://us.cnn.com/health"
+  },
+
+  "MSNBC":{
+    "link": "https://www.nbcnews.com/health/coronavirus"
+  },
+
+  "foxnews":{
+    "link": "https://www.foxnews.com/category/health/infectious-disease/coronavirus"
+  },
+  "buzzfeed":{
+    "link": "https://www.buzzfeed.com/life/health"
+  },
+  "breitbart":{
+    "link": "https://www.breitbart.com/health/"
+  },
+  "buffalo":{
+    "link": "https://buffalochronicle.com/category/washington/public-health/"
+  },
+  "financialtimes":{
+    "link": "https://www.ft.com/companies/health"
+  },
+  "pewresearch":{
+    "link": "https://www.pewresearch.org/topics/health/"
+  },
+  "gizmodo":{
+    "link": "https://gizmodo.com/search?blogId=4&q=covid-19&timestamp=1590805759866"
+}
+

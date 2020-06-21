@@ -1,0 +1,12 @@
+{ "CNN":{
+    "link": "https://us.cnn.com/health"
+  },
+
+  "MSNBC":{
+    "link": "https://www.nbcnews.com/health/coronavirus"
+  },
+
+  "foxnews":{
+    "link": "https://www.foxnews.com/category/health/infectious-disease/coronavirus"
+  }
+}
